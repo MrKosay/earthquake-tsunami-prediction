@@ -1,0 +1,50 @@
+# Tsunami Prediction Project Configuration
+
+# Data paths
+data:
+  raw_data_path: "data/raw"
+  processed_data_path: "data/processed"
+  external_data_path: "data/external"
+  
+# Model parameters
+model:
+  model_type: "lstm"  # Options: lstm, cnn, transformer, ensemble
+  input_window: 48  # Hours of data as input
+  output_window: 24  # Hours to predict
+  hidden_layers: 2
+  hidden_units: 128
+  dropout_rate: 0.2
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 100
+  early_stopping_patience: 10
+  
+# Training parameters
+training:
+  train_test_split: 0.8
+  validation_split: 0.2
+  random_seed: 42
+  
+# Features
+features:
+  - "sea_surface_height"
+  - "water_pressure"
+  - "water_temperature"
+  - "wave_height"
+  - "wave_period"
+  - "wind_speed"
+  - "wind_direction"
+  - "atmospheric_pressure"
+  
+# Visualization settings
+visualization:
+  default_colormap: "viridis"
+  plot_width: 12
+  plot_height: 8
+  dpi: 300
+  
+# Paths
+paths:
+  models_dir: "models"
+  visualizations_dir: "visualizations"
+  logs_dir: "logs" 
