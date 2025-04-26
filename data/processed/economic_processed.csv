@@ -1,0 +1,39 @@
+EventID,Year,Month,Day,Disaster_Type,Location,Magnitude,Depth_km,Fatalities,Estimated_Economic_Damage_USD,Source,Country,City_or_Region,Injuries,Notes,Date,Risk_Category
+1,2011,3,11,Earthquake+Tsunami,Japan (Tohoku),9.1,29,15894,210000000000.0,EM-DAT,,,,,2011-03-11,high
+2,2010,1,12,Earthquake,Haiti,7.0,13,222570,8000000000.0,EM-DAT,,,,,2010-01-12,high
+3,2004,12,26,Earthquake+Tsunami,Sumatra–Andaman,9.1,30,227898,14500000000.0,Munich Re,,,,,2004-12-26,high
+4,1994,1,17,Earthquake,"Northridge (California, USA)",6.7,19,57,20000000000.0,EM-DAT,,,,,1994-01-17,high
+5,1995,1,17,Earthquake,Kobe (Japan),6.9,16,6437,100000000000.0,EM-DAT,,,,,1995-01-17,high
+6,2008,5,12,Earthquake,Sichuan (China),7.9,19,87500,150000000000.0,EM-DAT,,,,,2008-05-12,high
+7,2016,4,16,Earthquake,Ecuador,7.8,20,676,3300000000.0,EM-DAT,,,,,2016-04-16,high
+8,2017,9,19,Earthquake,Puebla (Mexico),7.1,50,370,8000000000.0,EM-DAT,,,,,2017-09-19,high
+1,1906,4,18,Earthquake,,7.9,20,3000,524000000.0,Historical accounts,USA,San Francisco,Unknown,Historic event with major fire damage,1906-04-18,high
+2,1960,5,22,Earthquake+Tsunami,,9.5,25,1655,550000000.0,EM-DAT,Chile,Valdivia,3000,Largest instrumentally recorded earthquake,1960-05-22,high
+3,1964,3,27,Earthquake+Tsunami,,9.2,25,131,0.0,Severe tsunami damage in coastal areas,USA,Alaska (Good Friday Quake),160,,1964-03-27,low
+4,1976,7,28,Earthquake,,7.6,11,242000,10000000000.0,EM-DAT,China,Tangshan,164000,One of the deadliest quakes of 20th century,1976-07-28,high
+5,1985,9,19,Earthquake,,8.0,20,10000,4000000000.0,EM-DAT,Mexico,Mexico City,30000,Severe building collapse across the city,1985-09-19,high
+6,1989,10,17,Earthquake,,6.9,19,63,6000000000.0,USGS,USA,Loma Prieta (California),3757,Collapsed freeway and infrastructure damage,1989-10-17,high
+7,1994,1,17,Earthquake,,6.7,19,57,20000000000.0,EM-DAT,USA,Northridge (California),8700,One of the costliest earthquakes in U.S.,1994-01-17,high
+8,1995,1,17,Earthquake,,6.9,16,6437,100000000000.0,EM-DAT,Japan,Kobe,40000,Major urban destruction; port city impact,1995-01-17,high
+9,1999,8,17,Earthquake,,7.6,17,17480,6000000000.0,EM-DAT,Turkey,Izmit (Kocaeli),43953,Widespread urban damage; thousands homeless,1999-08-17,high
+10,2001,1,26,Earthquake,,7.7,16,20005,4800000000.0,EM-DAT,India,Gujarat (Bhuj),167000,Massive infrastructure and housing losses,2001-01-26,high
+11,2003,12,26,Earthquake,,6.6,10,26796,1000000000.0,EM-DAT,Iran,Bam,30000,Historic city heavily damaged,2003-12-26,high
+12,2004,12,26,Earthquake+Tsunami,,9.1,30,227898,14500000000.0,Munich Re,"Indonesia, Thailand, etc.",Sumatra–Andaman,Unknown,Indian Ocean tsunami affecting multiple countries,2004-12-26,high
+13,2005,10,8,Earthquake,,7.6,15,87351,5200000000.0,EM-DAT,Pakistan,Kashmir,138000,Severe mountainous terrain damage,2005-10-08,high
+14,2007,8,15,Earthquake,,8.0,39,595,2000000000.0,EM-DAT,Peru,Pisco,1500,Coastal region destruction; partial tsunami,2007-08-15,high
+15,2008,5,12,Earthquake,,7.9,19,87500,150000000000.0,EM-DAT,China,Sichuan,375000,Massive landslides and structural collapse,2008-05-12,high
+16,2009,9,29,Earthquake+Tsunami,,8.1,18,189,200000000.0,NOAA,Samoa,Samoa Islands region,Unknown,Triggered tsunami in South Pacific,2009-09-29,high
+17,2010,1,12,Earthquake,,7.0,13,222570,8000000000.0,EM-DAT,Haiti,Port-au-Prince,300000,"Extremely high mortality, infrastructure collapse",2010-01-12,high
+18,2010,2,27,Earthquake+Tsunami,,8.8,35,525,30000000000.0,EM-DAT,Chile,Maule,12000,Widespread damage; tsunami along coastline,2010-02-27,high
+19,2011,3,11,Earthquake+Tsunami,,9.1,29,15894,210000000000.0,EM-DAT,Japan,Tohoku,6152,Fukushima nuclear accident; massive tsunami,2011-03-11,high
+20,2011,10,23,Earthquake,,7.2,10,604,1400000000.0,EM-DAT,Turkey,Van (Erciş),4152,Significant building collapse in eastern Turkey,2011-10-23,high
+21,2012,8,11,Earthquake+Tsunami,,6.4,10,306,1000000000.0,Various news,Iran,Tabriz region,3000,Twin quakes on same day,2012-08-11,high
+22,2013,4,20,Earthquake,,6.6,12,196,6000000000.0,EM-DAT,China,Sichuan (Lushan),14000,Affected same region as 2008 but less severe,2013-04-20,high
+23,2015,4,25,Earthquake,,7.8,15,8964,5000000000.0,EM-DAT,Nepal,Gorkha (near Kathmandu),22000,Triggered avalanches on Mount Everest,2015-04-25,high
+24,2016,4,16,Earthquake,,7.8,20,676,3300000000.0,EM-DAT,Ecuador,Muisne (Manabí),28000,Coastal regions devastated,2016-04-16,high
+25,2016,8,24,Earthquake,,6.2,10,299,1500000000.0,Various news,Italy,Amatrice (Central Italy),400,Historic towns destroyed,2016-08-24,high
+26,2017,9,7,Earthquake,,8.2,70,98,600000000.0,EM-DAT,Mexico,Chiapas,300,One of the strongest quakes in Mexico's history,2017-09-07,high
+27,2017,9,19,Earthquake,,7.1,50,370,8000000000.0,EM-DAT,Mexico,Puebla/Morelos,6500,Severe damage in Mexico City on quake anniversary,2017-09-19,high
+28,2018,9,28,Earthquake+Tsunami,,7.5,10,4340,1200000000.0,BNPB (Indonesian Government),Indonesia,Palu (Sulawesi),Unknown,Liquefaction & tsunami caused major devastation,2018-09-28,high
+29,2019,7,4,Earthquake,,6.4,10,0,200000000.0,USGS,USA,Ridgecrest (California),20,"Series of foreshocks & aftershocks, moderate damage",2019-07-04,high
+30,2021,8,14,Earthquake,,7.2,2248,12200,0.0,Severe damage in southwestern Haiti,Haiti,Nippes Region,1900000000,,2021-08-14,low

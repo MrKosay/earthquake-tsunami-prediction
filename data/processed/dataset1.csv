@@ -1,0 +1,9 @@
+EventID,Year,Month,Day,Disaster_Type,Location,Magnitude,Depth_km,Fatalities,Estimated_Economic_Damage_USD,Source
+1,2011,3,11,"Earthquake+Tsunami","Japan (Tohoku)",9.1,29,15894,210000000000,"EM-DAT"
+2,2010,1,12,"Earthquake","Haiti",7.0,13,222570,8000000000,"EM-DAT"
+3,2004,12,26,"Earthquake+Tsunami","Sumatra–Andaman",9.1,30,227898,14500000000,"Munich Re"
+4,1994,1,17,"Earthquake","Northridge (California, USA)",6.7,19,57,20000000000,"EM-DAT"
+5,1995,1,17,"Earthquake","Kobe (Japan)",6.9,16,6437,100000000000,"EM-DAT"
+6,2008,5,12,"Earthquake","Sichuan (China)",7.9,19,87500,150000000000,"EM-DAT"
+7,2016,4,16,"Earthquake","Ecuador",7.8,20,676,3300000000,"EM-DAT"
+8,2017,9,19,"Earthquake","Puebla (Mexico)",7.1,50,370,8000000000,"EM-DAT"
