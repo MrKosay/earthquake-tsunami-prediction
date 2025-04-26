@@ -1,18 +1,36 @@
-# Tsunami Prediction System
+# Earthquake & Tsunami Risk Prediction Platform
 
-A machine learning-based system for predicting tsunamis using oceanographic, seismic, and atmospheric data.
+A comprehensive platform for predicting and visualizing earthquake and tsunami risks using machine learning models and interactive visualizations.
+
+## Features
+
+- Real-time earthquake and tsunami risk prediction
+- Interactive map visualization
+- Historical event analysis and comparison
+- Emergency response chatbot
+- Detailed risk assessment and economic impact analysis
+
+## Technical Stack
+
+- **Frontend**: Streamlit for interactive web interface
+- **Backend**: Python FastAPI for prediction endpoints
+- **ML Models**: Predictive models for earthquake magnitude, depth, and tsunami likelihood
+- **Visualization**: Folium for maps, Plotly for interactive charts
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Start the API server: `cd api && python main.py`
+4. Run the frontend: `cd frontend && streamlit run app.py`
+
+## Emergency Response Chatbot
+
+The platform includes an offline-capable emergency response chatbot that provides immediate guidance for earthquake and tsunami situations, ensuring critical information is accessible even without internet connectivity.
 
 ## Project Overview
 
 This project aims to develop an accurate and reliable tsunami prediction system using deep learning techniques. By analyzing various oceanic and atmospheric parameters, the system can predict potential tsunami events and their characteristics with improved lead time.
-
-## Features
-
-- Real-time data processing from multiple sources
-- Deep learning models for tsunami detection and prediction
-- Visualization tools for data analysis and prediction results
-- Geospatial analysis of tsunami impact zones
-- Early warning system integration
 
 ## Project Structure
 
